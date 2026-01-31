@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nicole Numberg</h1>
-<h3 align="center">A programmer interested in Operatives Systems and networking from the US</h3>
-
-- 🔭 I’m currently working on **Personal Projects**
-
-- 🌱 I’m currently learning **Advanced Linux and Windows**
-
-- 👯 I’m looking to collaborate on **Any interesting project**
-
-- 🤝 I’m looking for work with **Creative people**
-
-- 💬 Ask me about **Python,OSPF,Linux**
 
 - 📫 How to reach me **numbergnicole@gmail.com**
 
